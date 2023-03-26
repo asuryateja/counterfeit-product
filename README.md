@@ -1,7 +1,9 @@
 # counterfeit-product
 
+## Update .env
+
 ## Step - 1
-### ```js npm install --force```
+### ```npm install --force```
 
 ## Step - 2
-### ```js npm start```
+### ```npm start```
